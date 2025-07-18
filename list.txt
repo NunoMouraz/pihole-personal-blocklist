@@ -56,5 +56,5 @@
 # /unknown
 
 # vs-code-update
-update.code.visualstudio.com
+0.0.0.0 update.code.visualstudio.com
 # /vs-code-update
