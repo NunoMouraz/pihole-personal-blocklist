@@ -53,6 +53,7 @@
 
 # unknown
 0.0.0.0	n-device-api.tplinkcloud.com
+0.0.0.0 security.iot.i.tplinknbu.com
 # /unknown
 
 # vs-code-update
