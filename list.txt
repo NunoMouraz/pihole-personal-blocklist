@@ -54,10 +54,10 @@
 # unknown
 0.0.0.0	n-device-api.tplinkcloud.com
 0.0.0.0 security.iot.i.tplinknbu.com
+# 0.0.0.0 908373051.tapecontent.net
+# 0.0.0.0 860718367.tapecontent.net
 # /unknown
 
 # vs-code-update
 # 0.0.0.0 update.code.visualstudio.com
-0.0.0.0 908373051.tapecontent.net
-0.0.0.0 860718367.tapecontent.net
 # /vs-code-update
