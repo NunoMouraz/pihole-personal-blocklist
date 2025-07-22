@@ -49,6 +49,13 @@
 0.0.0.0	mediaservices.cdn-apple.com
 0.0.0.0	us.lgtvsdp.com
 0.0.0.0	ueiwsp.com
+# 0.0.0.0 it.lgtvsdp.com
+# 0.0.0.0 de.lgtvsdp.com
+# 0.0.0.0 fr.lgtvsdp.com
+# 0.0.0.0 pt.lgtvsdp.com
+# 0.0.0.0 us.lgtvsdp.com
+# 0.0.0.0 es.lgtvsdp.com
+# 0.0.0.0 uk.lgtvsdp.com
 # /lg-tv
 
 # unknown
