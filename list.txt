@@ -56,6 +56,8 @@
 # 0.0.0.0 us.lgtvsdp.com
 # 0.0.0.0 es.lgtvsdp.com
 # 0.0.0.0 uk.lgtvsdp.com
+0.0.0.0 eic.recommend.lgtvcommon.com
+0.0.0.0 eic.cdpsvc.lgtvcommon.com
 # /lg-tv
 
 # unknown
