@@ -49,26 +49,297 @@
 0.0.0.0	mediaservices.cdn-apple.com
 0.0.0.0	us.lgtvsdp.com
 0.0.0.0	ueiwsp.com
-# 0.0.0.0 de.lgtvsdp.com
-# 0.0.0.0 es.lgtvsdp.com
-# 0.0.0.0 fr.lgtvsdp.com
-# 0.0.0.0 it.lgtvsdp.com
-# 0.0.0.0 pt.lgtvsdp.com
-# 0.0.0.0 uk.lgtvsdp.com
-# 0.0.0.0 us.lgtvsdp.com
+###############################
+# below this line is untested #
+###############################
+ae.info.lgsmartad.com
+ar.info.lgsmartad.com
+at.info.lgsmartad.com
+au.info.lgsmartad.com
+be.info.lgsmartad.com
+bo.info.lgsmartad.com
+br.info.lgsmartad.com
+ca.info.lgsmartad.com
+ch.info.lgsmartad.com
+ci.info.lgsmartad.com
+cl.info.lgsmartad.com
+cm.info.lgsmartad.com
+cn.info.lgsmartad.com
+co.info.lgsmartad.com
+de.info.lgsmartad.com
+dk.info.lgsmartad.com
+ec.info.lgsmartad.com
+eg.info.lgsmartad.com
+es.info.lgsmartad.com
+eu7.info.lgsmartad.com
+fi.info.lgsmartad.com
+fr.info.lgsmartad.com
+gb.info.lgsmartad.com
+gp.info.lgsmartad.com
+gr.info.lgsmartad.com
+hk.info.lgsmartad.com
+hn.info.lgsmartad.com
+hr.info.lgsmartad.com
+id.info.lgsmartad.com
+ie.info.lgsmartad.com
+il.info.lgsmartad.com
+in.info.lgsmartad.com
+ir.info.lgsmartad.com
+is.info.lgsmartad.com
+it.info.lgsmartad.com
+jp.info.lgsmartad.com
+kr.info.lgsmartad.com
+lb.info.lgsmartad.com
+me.info.lgsmartad.com
+mm.info.lgsmartad.com
+mx.info.lgsmartad.com
+my.info.lgsmartad.com
+na.info.lgsmartad.com
+nl.info.lgsmartad.com
+pe.info.lgsmartad.com
+pl.info.lgsmartad.com
+pt.info.lgsmartad.com
+qa.info.lgsmartad.com
+ro.info.lgsmartad.com
+rs.info.lgsmartad.com
+ru.info.lgsmartad.com
+sa.info.lgsmartad.com
+se.info.lgsmartad.com
+sg.info.lgsmartad.com
+si.info.lgsmartad.com
+sk.info.lgsmartad.com
+tm.info.lgsmartad.com
+tn.info.lgsmartad.com
+tr.info.lgsmartad.com
+tw.info.lgsmartad.com
+ua.info.lgsmartad.com
+uk.info.lgsmartad.com
+us.info.lgsmartad.com
+vc.info.lgsmartad.com
+vn.info.lgsmartad.com
+za.info.lgsmartad.com
+#
+ae.ad.lgsmartad.com
+ar.ad.lgsmartad.com
+at.ad.lgsmartad.com
+au.ad.lgsmartad.com
+be.ad.lgsmartad.com
+bo.ad.lgsmartad.com
+br.ad.lgsmartad.com
+ca.ad.lgsmartad.com
+ch.ad.lgsmartad.com
+ci.ad.lgsmartad.com
+cl.ad.lgsmartad.com
+cm.ad.lgsmartad.com
+cn.ad.lgsmartad.com
+co.ad.lgsmartad.com
+de.ad.lgsmartad.com
+dk.ad.lgsmartad.com
+ec.ad.lgsmartad.com
+eg.ad.lgsmartad.com
+es.ad.lgsmartad.com
+eu7.ad.lgsmartad.com
+fi.ad.lgsmartad.com
+fr.ad.lgsmartad.com
+gb.ad.lgsmartad.com
+gp.ad.lgsmartad.com
+gr.ad.lgsmartad.com
+hk.ad.lgsmartad.com
+hn.ad.lgsmartad.com
+hr.ad.lgsmartad.com
+id.ad.lgsmartad.com
+ie.ad.lgsmartad.com
+il.ad.lgsmartad.com
+in.ad.lgsmartad.com
+ir.ad.lgsmartad.com
+is.ad.lgsmartad.com
+it.ad.lgsmartad.com
+jp.ad.lgsmartad.com
+kr.ad.lgsmartad.com
+lb.ad.lgsmartad.com
+me.ad.lgsmartad.com
+mm.ad.lgsmartad.com
+mx.ad.lgsmartad.com
+my.ad.lgsmartad.com
+na.ad.lgsmartad.com
+nl.ad.lgsmartad.com
+pe.ad.lgsmartad.com
+pl.ad.lgsmartad.com
+pt.ad.lgsmartad.com
+qa.ad.lgsmartad.com
+ro.ad.lgsmartad.com
+rs.ad.lgsmartad.com
+ru.ad.lgsmartad.com
+sa.ad.lgsmartad.com
+se.ad.lgsmartad.com
+sg.ad.lgsmartad.com
+si.ad.lgsmartad.com
+sk.ad.lgsmartad.com
+tm.ad.lgsmartad.com
+tn.ad.lgsmartad.com
+tr.ad.lgsmartad.com
+tw.ad.lgsmartad.com
+ua.ad.lgsmartad.com
+uk.ad.lgsmartad.com
+us.ad.lgsmartad.com
+vc.ad.lgsmartad.com
+vn.ad.lgsmartad.com
+za.ad.lgsmartad.com
+#
+ae.lgtvsdp.com
+ar.lgtvsdp.com
+at.lgtvsdp.com
+au.lgtvsdp.com
+be.lgtvsdp.com
+bo.lgtvsdp.com
+br.lgtvsdp.com
+ca.lgtvsdp.com
+ch.lgtvsdp.com
+ci.lgtvsdp.com
+cl.lgtvsdp.com
+cm.lgtvsdp.com
+cn.lgtvsdp.com
+co.lgtvsdp.com
+de.lgtvsdp.com
+dk.lgtvsdp.com
+ec.lgtvsdp.com
+eg.lgtvsdp.com
+es.lgtvsdp.com
+eu7.lgtvsdp.com
+fi.lgtvsdp.com
+fr.lgtvsdp.com
+gb.lgtvsdp.com
+gp.lgtvsdp.com
+gr.lgtvsdp.com
+hk.lgtvsdp.com
+hn.lgtvsdp.com
+hr.lgtvsdp.com
+id.lgtvsdp.com
+ie.lgtvsdp.com
+il.lgtvsdp.com
+in.lgtvsdp.com
+ir.lgtvsdp.com
+is.lgtvsdp.com
+it.lgtvsdp.com
+jp.lgtvsdp.com
+kr.lgtvsdp.com
+lb.lgtvsdp.com
+me.lgtvsdp.com
+mm.lgtvsdp.com
+mx.lgtvsdp.com
+my.lgtvsdp.com
+na.lgtvsdp.com
+nl.lgtvsdp.com
+pe.lgtvsdp.com
+pl.lgtvsdp.com
+pt.lgtvsdp.com
+qa.lgtvsdp.com
+ro.lgtvsdp.com
+rs.lgtvsdp.com
+ru.lgtvsdp.com
+sa.lgtvsdp.com
+se.lgtvsdp.com
+sg.lgtvsdp.com
+si.lgtvsdp.com
+sk.lgtvsdp.com
+tm.lgtvsdp.com
+tn.lgtvsdp.com
+tr.lgtvsdp.com
+tw.lgtvsdp.com
+ua.lgtvsdp.com
+uk.lgtvsdp.com
+us.lgtvsdp.com
+vc.lgtvsdp.com
+vn.lgtvsdp.com
+za.lgtvsdp.com
+#
+ae.rdx2.lgtvsdp.com
+ar.rdx2.lgtvsdp.com
+at.rdx2.lgtvsdp.com
+au.rdx2.lgtvsdp.com
+be.rdx2.lgtvsdp.com
+bo.rdx2.lgtvsdp.com
+br.rdx2.lgtvsdp.com
+ca.rdx2.lgtvsdp.com
+ch.rdx2.lgtvsdp.com
+ci.rdx2.lgtvsdp.com
+cl.rdx2.lgtvsdp.com
+cm.rdx2.lgtvsdp.com
+cn.rdx2.lgtvsdp.com
+co.rdx2.lgtvsdp.com
+de.rdx2.lgtvsdp.com
+dk.rdx2.lgtvsdp.com
+ec.rdx2.lgtvsdp.com
+eg.rdx2.lgtvsdp.com
+es.rdx2.lgtvsdp.com
+eu7.rdx2.lgtvsdp.com
+fi.rdx2.lgtvsdp.com
+fr.rdx2.lgtvsdp.com
+gb.rdx2.lgtvsdp.com
+gp.rdx2.lgtvsdp.com
+gr.rdx2.lgtvsdp.com
+hk.rdx2.lgtvsdp.com
+hn.rdx2.lgtvsdp.com
+hr.rdx2.lgtvsdp.com
+id.rdx2.lgtvsdp.com
+ie.rdx2.lgtvsdp.com
+il.rdx2.lgtvsdp.com
+in.rdx2.lgtvsdp.com
+ir.rdx2.lgtvsdp.com
+is.rdx2.lgtvsdp.com
+it.rdx2.lgtvsdp.com
+jp.rdx2.lgtvsdp.com
+kr.rdx2.lgtvsdp.com
+lb.rdx2.lgtvsdp.com
+me.rdx2.lgtvsdp.com
+mm.rdx2.lgtvsdp.com
+mx.rdx2.lgtvsdp.com
+my.rdx2.lgtvsdp.com
+na.rdx2.lgtvsdp.com
+nl.rdx2.lgtvsdp.com
+pe.rdx2.lgtvsdp.com
+pl.rdx2.lgtvsdp.com
+pt.rdx2.lgtvsdp.com
+qa.rdx2.lgtvsdp.com
+ro.rdx2.lgtvsdp.com
+rs.rdx2.lgtvsdp.com
+ru.rdx2.lgtvsdp.com
+sa.rdx2.lgtvsdp.com
+se.rdx2.lgtvsdp.com
+sg.rdx2.lgtvsdp.com
+si.rdx2.lgtvsdp.com
+sk.rdx2.lgtvsdp.com
+tm.rdx2.lgtvsdp.com
+tn.rdx2.lgtvsdp.com
+tr.rdx2.lgtvsdp.com
+tw.rdx2.lgtvsdp.com
+ua.rdx2.lgtvsdp.com
+uk.rdx2.lgtvsdp.com
+us.rdx2.lgtvsdp.com
+vc.rdx2.lgtvsdp.com
+vn.rdx2.lgtvsdp.com
+za.rdx2.lgtvsdp.com
+#
 0.0.0.0 eic.recommend.lgtvcommon.com
 0.0.0.0 eic.cdpsvc.lgtvcommon.com
 0.0.0.0 eic.lgtviot.com
 0.0.0.0 eic-gfts.lge.com
-0.0.0.0 de.info.lgsmartad.com
-0.0.0.0 es.info.lgsmartad.com
-0.0.0.0 fr.info.lgsmartad.com
-0.0.0.0 it.info.lgsmartad.com
-0.0.0.0 pt.info.lgsmartad.com
-0.0.0.0 uk.info.lgsmartad.com
-0.0.0.0 us.info.lgsmartad.com
 0.0.0.0 eic.sports.lgtviot.com
-0.0.0.0 eic.cdpsvc.lgtvcommon.com
+0.0.0.0 api.amazon.co.uk
+0.0.0.0 api.amazon.com
+0.0.0.0 avpk-avuypkjypveaj-1.api.amazonvideo.com
+0.0.0.0 avpk-avuypkjypveaj-1.eu.api.amazonvideo.com
+0.0.0.0 avpk-avuypkjypveaj-1.zaz-f.api.amazonvideo.com
+0.0.0.0 avpk-avuypkjypveaj-1.zaz.api.amazonvideo.com
+0.0.0.0 d184dfn36gombl.cloudfront.net
+0.0.0.0 eic-ocp.lgtviot.com
+0.0.0.0 eic.cdplauncher.lgtvcommon.com
+0.0.0.0 eic.lgchhomeapp.lgtvcommon.com
+0.0.0.0 fastly.xp-assets.aiv-cdn.net
+0.0.0.0 images-eu.ssl-images-amazon.com
+0.0.0.0 m.media-amazon.com
+0.0.0.0 nevoai-iothub-17-prod.azure-devices.net
+0.0.0.0 threeplr-avuypkjypveaj-0.eu.api.amazonvideo.com
 # /lg-tv
 
 # unknown
