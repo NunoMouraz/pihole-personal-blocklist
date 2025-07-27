@@ -345,6 +345,7 @@ za.rdx2.lgtvsdp.com
 # unknown
 0.0.0.0	n-device-api.tplinkcloud.com
 0.0.0.0 security.iot.i.tplinknbu.com
+0.0.0.0 www.baidu.com
 # /unknown
 
 # vs-code-update
